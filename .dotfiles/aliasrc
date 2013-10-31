@@ -3,7 +3,7 @@
 alias vi='vim'
 alias o='open' 
 
-alias ls='ls -F --color=auto'
+#alias ls='ls -F --color=auto'
 alias l1='clear; ls -1'
 alias ll='ls -ihlt'
 alias la='ls -A'
