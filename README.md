@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-repo used on my env setup script
+repo used on my env setup script.
