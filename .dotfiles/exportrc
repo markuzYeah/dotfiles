@@ -14,7 +14,7 @@ export PATH=/usr/local/heroku/bin:$PATH
 #export PATH=/Applications/Postgres.app/Contents/MacOS/bin:$PATH
 #export PATH=$PATH:/usr/local/Cellar/phantomjs/1.6.1/bin
 
-export HOST=ub-rack
+export HOST=higgs
 
 export NODE_PATH="$HOME/lib/node_modules"
 
