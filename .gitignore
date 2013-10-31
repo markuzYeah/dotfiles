@@ -1,0 +1,56 @@
+## file extentions
+*
+
+
+#**/*/**
+#
+#*.diff
+#*.err
+#*.orig
+#*.log
+#*.rej
+#*.swo
+#*.swp
+#*.vi
+#*~
+#*.sass-cache
+#
+## files
+#
+#.CFUserTextEncoding
+#.DS_Store
+#.bash_history
+#.bash_profile
+#.rnd
+#.vim@
+#.viminfo
+#.vimrc@
+#.zprofile
+#.zshrc@
+#.gitconfig
+#
+#.cache
+#.project
+#.settings
+#.tmproj
+#nbproject
+#Thumbs.db
+#
+## some dir
+#.git/
+#.Trash/
+#.rvm/
+#.gem/
+#.ssh/
+#.subversion/
+#
+#
+## obvious directories to exclude
+#Desktop/
+#Documents/
+#Downloads/
+#Library/
+#Movies/
+#Music/
+#Pictures/
+#Public/

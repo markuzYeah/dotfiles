@@ -1,0 +1,44 @@
+#! /bin/sh
+#
+alias vi='vim'
+alias o='open' 
+
+alias ls='ls -F --color=auto'
+alias l1='clear; ls -1'
+alias ll='ls -ihlt'
+alias la='ls -A'
+alias lla='ls -Ahlt'
+alias lc='clear ; ls'
+alias llc='clear ; ll'
+alias lca='clear; la'
+alias llca='clear; lla'
+alias l='ls -CF'
+alias lr='ls -RFlA | more'
+
+alias poweroff='sudo poweroff'
+alias reboot='sudo reboot'
+
+alias cp='cp -R'
+alias ps='ps -e'
+alias cl='clear'
+
+alias py='python'
+#alias pip="pip-2.7"
+#alias ipy='ipython qtconsole --pylab=inline &>/dev/null'
+#alias ipy='ipython qtconsole --pylab=inline '
+alias ipy='ipython --TerminalInteractiveShell.colors="Linux" --TerminalInteractiveShell.confirm_exit=False --TerminalInteractiveShell.deep_reload=True --pprint --TerminalInteractiveShell.banner1="" --nosep'
+
+
+grep='grep --color=auto' 
+egrep='egrep --color=auto' 
+fgrep='fgrep --color=auto' 
+
+alias cd....='cd ../../../..'
+alias cd...='cd ../../..'
+alias cd..='cd ../..'
+alias cd.='cd ..'
+alias xat='cat'
+alias cta='cat'
+alias greo='grep'
+
+alias subl='open -a "Sublime Text"'
