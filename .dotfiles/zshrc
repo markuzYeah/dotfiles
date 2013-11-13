@@ -62,8 +62,8 @@ alias -g T='|tail'
 [ -f ~/.exportrc ] && . ~/.exportrc
 
 
-PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
-
+#PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+. ~/.nvm/nvm.sh 2>/dev/null # setting up NVM
 
 # hack for git_status
 cd $PWD; clear
