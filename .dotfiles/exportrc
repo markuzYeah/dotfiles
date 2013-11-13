@@ -8,15 +8,15 @@
 
 export PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin
 export PATH=/usr/local/bin:/usr/local/sbin:$PATH:~/.bin:~/bin:/opt/bin:/opt/.bin
-export PATH=/usr/local/share/npm/bin:$PATH
-export PATH=/usr/local/share/python:$PATH:/usr/local/my/bin
-export PATH=/usr/local/heroku/bin:$PATH
+#export PATH=/usr/local/share/npm/bin:$PATH
+#export PATH=/usr/local/share/python:$PATH:/usr/local/my/bin
+#export PATH=/usr/local/heroku/bin:$PATH
 #export PATH=/Applications/Postgres.app/Contents/MacOS/bin:$PATH
 #export PATH=$PATH:/usr/local/Cellar/phantomjs/1.6.1/bin
 
-export HOST=higgs
+export HOST=local
 
-export NODE_PATH="$HOME/lib/node_modules"
+export NODE_PATH="$HOME/.node_modules"
 
 
 #export PATH=~/.work/py:~/.work:$PATH
@@ -42,8 +42,8 @@ export NODE_PATH="$HOME/lib/node_modules"
 #export LD=/usr/local/bin/ld
 #export FFLAGS="-ff2c"
 
-export PYTHONPATH=/usr/local/lib/python:$PYTHONPATH
-export PYTHONSTARTUP=~/.pythonrc
+#export PYTHONPATH=/usr/local/lib/python:$PYTHONPATH
+#export PYTHONSTARTUP=~/.pythonrc
 # export DYLD_LIBRARY_PATH=/usr/local/Cellar/icu4c/4.8.1/include 
 
 
